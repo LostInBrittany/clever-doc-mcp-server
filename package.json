@@ -19,6 +19,6 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "fastmcp": "^1.16.2"
+    "fastmcp": "1.7.0"
   }
 }
