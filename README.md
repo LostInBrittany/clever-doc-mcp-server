@@ -1,5 +1,8 @@
 # Clever Cloud Documentation MCP server
 
+[![smithery badge](https://smithery.ai/badge/@LostInBrittany/clever-doc-mcp-server)](https://smithery.ai/server/@LostInBrittany/clever-doc-mcp-server)
+
+
 This MCP demo Server based on [FastMCP](https://github.com/punkpeye/fastmcp), exposes [Clever Cloud](https://clever-cloud.com)'s documentation.
 
 It's based on [MCP Clever Demo](https://github.com/davlgd/mcp-clever-demo) by [davlgd](https://github.com/davlgd).
