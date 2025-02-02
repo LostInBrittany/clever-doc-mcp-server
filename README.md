@@ -4,6 +4,8 @@ This MCP demo Server based on [FastMCP](https://github.com/punkpeye/fastmcp), ex
 
 It's based on [MCP Clever Demo](https://github.com/davlgd/mcp-clever-demo) by [davlgd](https://github.com/davlgd).
 
+<a href="https://glama.ai/mcp/servers/gcxm8s1o6v"><img width="380" height="200" src="https://glama.ai/mcp/servers/gcxm8s1o6v/badge" alt="Clever Cloud Documentation Server MCP server" /></a>
+
 ## Usage
 
 To use this server in an MCP client such as Claude Desktop:
